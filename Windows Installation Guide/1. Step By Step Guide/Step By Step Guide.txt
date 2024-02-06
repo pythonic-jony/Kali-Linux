@@ -1,0 +1,17 @@
+Step 1: 
+>> UPDATE YOUR WINDOWS TO WINDOWS 10 or ABOVE
+>> UPDATE ALL DRIVERS
+
+Step 2: 
+>> DOWNLOAD VMware  [Check VMware Install Folder To download it.(folder no 2)]
+
+Step 3:
+>> DOWNLOAD Kali Linux Custome IMG for VMware [Check Custom Image Download Folder To download it.(folder no 3)]
+
+Step 4:
+>> DOWNLOAD 7 Zip  [Check 7 Zip Folder To download it.(folder no 4)]
+
+#######################################################################
+
+Full Installation Process : 
+Visit : 

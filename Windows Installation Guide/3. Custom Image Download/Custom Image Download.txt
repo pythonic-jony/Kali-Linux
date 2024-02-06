@@ -1,0 +1,19 @@
+Visit Below Website For More Information:
+https://help.offsec.com/hc/en-us/articles/360049796792-Kali-Linux-Virtual-Machine
+
+SOFTWARE REQUIREMENTS
+The Kali VM we recommend in this article is built for use with VMware products. Windows and Linux users can use either VMware Workstation or the free VMware Workstation Player, whereas macOS users will require VMware Fusion.
+
+Free trials are available for both Workstation and Fusion if you do not already have a license for them.
+
+KALI VM DOWNLOAD
+Please visit the following URL to download the Kali VM:
+
+URL: https://www.kali.org/get-kali/#kali-virtual-machines 
+This Kali VM has the following credentials:
+
+Username: kali
+Password: kali
+
+Direct Download Link:
+https://kali.cs.nycu.edu.tw/kali-images/kali-2023.4/kali-linux-2023.4-vmware-amd64.7z

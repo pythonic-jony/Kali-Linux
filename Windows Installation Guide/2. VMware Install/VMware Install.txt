@@ -1,0 +1,13 @@
+System Requirements:
+
+A compatible 64-bit x86/AMD64 CPU launched in 2011 or later *
+1.3GHz or faster core speed.
+2GB RAM minimum/ 4GB RAM or more recommended. 
+
+Visit Below url
+https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html 
+
+Try Workstation 17 Player for Windows: 
+
+Direct Download Link Below:
+https://download3.vmware.com/software/WKST-PLAYER-1750/VMware-player-full-17.5.0-22583795.exe
